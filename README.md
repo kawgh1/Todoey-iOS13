@@ -1,5 +1,5 @@
 
-# Todoey ✓
+# Todoey ✓ using Core Data
 
 ## Our Goal
 
