@@ -7,9 +7,9 @@
 
 The objective of this tutorial is to understand how to save data in iOS. We'll look at various choices and learn to use UserDefaults, Core Data and Realm.
 
-### Data Management in iOS
+## Data Management in iOS
 
-- #### What are the different options for Data Management in iOS?
+- ### What are the different options for Data Management in iOS?
 
 ![data-mamangement](https://raw.githubusercontent.com/kawgh1/Todoey-iOS13/master/iOS%20Data.png)
 
@@ -36,9 +36,9 @@ Overall, the choice of data management option depends on the specific requiremen
 
 
 
-### NSPredicate
+## NSPredicate
 
-#### What is NSPredicate?
+### What is NSPredicate?
 
 NSPredicate is a class in the Foundation framework of Apple's programming language, Objective-C, and Swift. It represents a query or search condition used to filter and search collections of objects, such as an array or a Core Data database.
 
